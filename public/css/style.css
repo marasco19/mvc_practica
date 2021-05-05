@@ -1,0 +1,14 @@
+.page-preview {
+  text-align: right;
+  font-family: "Roboto", sans-serif;
+  font-size: large;
+}
+.page-preview-body {
+  border: 1px solid black;
+  width: 400px;
+  margin-left: 400px;
+}
+.body-dog {
+  width: 600px;
+  height: 400px;
+}
